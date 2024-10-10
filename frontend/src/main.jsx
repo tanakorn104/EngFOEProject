@@ -11,7 +11,7 @@ import App from './App.jsx';
 import Manage from './component/Managedata.jsx';
 import Header from './component/Header.jsx';
 // import { useContext ,useState,useNavigate} from 'react';
-import Login from './component/login.jsx';
+import Login from './component/Login.jsx';
 import Adddata from './component/Adddata.jsx';
 // import { AuthProvider } from './component/AuthContext.jsx';
 import { GoogleLogin, GoogleLogout } from 'react-google-login'
